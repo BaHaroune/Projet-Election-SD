@@ -1,0 +1,19 @@
+Pour exécuter le code JavaScript de l'algorithme de l'élection du plus grand identifiant (Bully algorithm) ou 
+de l'algorithme de l'élection du plus petit identifiant (Ring algorithm), vous pouvez suivre ces étapes :
+
+1. Ouvrez un éditeur de code ou un environnement de développement JavaScript, tel que Visual Studio Code, Atom ou Sublime Text.
+2. Créez un nouveau fichier et collez le code JavaScript de l'algorithme choisi dans ce fichier.
+3. Enregistrez le fichier avec une extension `.js`, par exemple, `bullyAlgorithmeCode.js` ou `ringAlgorythmeCode.js`.
+4. Ouvrez un terminal ou une ligne de commande.
+5. Accédez au répertoire où vous avez enregistré le fichier JavaScript à l'étape précédente.
+6. Utilisez la commande `node` suivie du nom du fichier JavaScript pour exécuter le code. Par exemple, si le fichier s'appelle `bullyAlgorithmeCode.js`, 
+exécutez la commande `ringAlgorythmeCode.js`.
+7. Vous devriez voir les messages d'élection et de réponse s'afficher dans le terminal ou la ligne de commande à mesure que l'algorithme progresse.
+8. Lorsque l'exécution est terminée, vous verrez le résultat final, tel que le processus élu ou le processus coordinateur, affiché dans la console.
+
+Il est important de noter que pour exécuter le code, vous devez avoir Node.js installé sur votre système. Node.js est un environnement 
+d'exécution JavaScript côté serveur. Vous pouvez télécharger et installer Node.js à partir du site officiel : https://nodejs.org
+
+Assurez-vous également que le code est correctement enregistré et qu'il ne contient pas d'erreurs de syntaxe. Si vous rencontrez des erreurs 
+lors de l'exécution du code, vérifiez la console pour les messages d'erreur et assurez-vous que votre environnement est correctement configuré, sinon 
+vous pouvez nous laisser une message sur hrngelel@gmail.com.
